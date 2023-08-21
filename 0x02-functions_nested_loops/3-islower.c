@@ -1,4 +1,3 @@
- 
 /**
   * *_islower - a function that checks for lowercase character
  *@c: The charactere
