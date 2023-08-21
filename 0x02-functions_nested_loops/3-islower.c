@@ -1,4 +1,5 @@
- /**_islower - a function that checks for lowercase character
+ /*
+  * *_islower - a function that checks for lowercase character
  *@c: The charactere
  *
  *Return: On success 1.
