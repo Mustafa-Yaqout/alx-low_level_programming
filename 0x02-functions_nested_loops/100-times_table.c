@@ -78,8 +78,5 @@ void print_times_table(int n)
 ~
 ~
 ~
-~
-~
-~
 -- INSERT --                                                                                         0,1           All
 
